@@ -11,7 +11,7 @@ Copy the files to either:
     
     My Documents\VisualStudioVersion\Visualizers
     
-The visualizer is going to open whichever program you have associated with .bin files.  I recommend installing HxD 
+The visualizer is going to open the binary array in whichever program you have associated with .bin files.  I recommend installing HxD 
 a freeward hex editor and disk editor available at https://mh-nexus.de/en/hxd/
 
 
